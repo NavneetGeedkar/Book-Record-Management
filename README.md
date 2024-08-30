@@ -1,6 +1,6 @@
 # Book-Record-Management
-This is a Book Record Management Project using Nodejs ,Express and MongoDb.
-Created an API Backend for the management of records of bOoks and Users.
+This is a Book Record Management Project using Nodejs, Express, MongoDb and Postman.
+Created an API Backend for the management of records of Books and Users.
 
 # API Documentation link
 
